@@ -33,7 +33,7 @@ export function Options({ onFeedbackTypeChanged }: Props) {
                         ))
                 }
             </View>
-
+            <Copyright />
         </View>
     );
 }
